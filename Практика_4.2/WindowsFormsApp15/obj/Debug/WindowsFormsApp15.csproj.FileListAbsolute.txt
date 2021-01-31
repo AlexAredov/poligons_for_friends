@@ -1,0 +1,11 @@
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form2.resources
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\aared\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
