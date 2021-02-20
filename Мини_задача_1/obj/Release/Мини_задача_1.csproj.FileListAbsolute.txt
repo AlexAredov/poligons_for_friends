@@ -1,4 +1,0 @@
-C:\Users\aared\source\repos\Многоугольники\Мини_задача_1\obj\Release\Мини_задача_1.Form1.resources
-C:\Users\aared\source\repos\Многоугольники\Мини_задача_1\obj\Release\Мини_задача_1.Properties.Resources.resources
-C:\Users\aared\source\repos\Многоугольники\Мини_задача_1\obj\Release\Мини_задача_1.csproj.GenerateResource.cache
-C:\Users\aared\source\repos\Многоугольники\Мини_задача_1\obj\Release\Мини_задача_1.csproj.CoreCompileInputs.cache
